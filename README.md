@@ -1,4 +1,6 @@
-##  Rock Paper Scissors Game
+##  Rock Paper
+ <br>
+Scissors Game
 
 An interactive Rock Paper Scissors web application built using **HTML**, **CSS**, and **JavaScript**, with design and logic support from **AI tools** to streamline development and enhance user experience.
 
